@@ -1,0 +1,13 @@
+
+.ContentWrapper .grid_page  #__w2_tDn9BWe_left_col{
+	position: fixed;
+}
+
+.ContentWrapper .grid_page .layout_3col_left{
+	position: fixed;
+}
+
+.ContentWrapper .grid_page .layout_3col_center{
+	float: none;
+	margin: 0 auto;
+}
